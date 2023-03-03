@@ -15,6 +15,7 @@
 </head>
 
 <body>
+<?= 'Hello World'?>
   <div class="wrapper">
     <div class="navbar-area">
       <div class="navbar-top">
